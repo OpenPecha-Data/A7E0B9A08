@@ -1,0 +1,19 @@
+id: A7E0B9A08
+title: Supplement to the Longchen Nyingtik Lineage Prayer
+type: translation
+pechas:
+- I3629A1F3
+- I67682D2C
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:14:52.308581
+  last_modified_at: 2023-01-04 12:14:52.308585
+  collections:
+  - Jamyang Khyentse Chökyi Lodrö Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I3629A1F3/2AAC: 647D
+  I67682D2C/1565: 647D
